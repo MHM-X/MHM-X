@@ -6,7 +6,7 @@ SOC Analyst
 
 A Cybersecurity student, with a focus on defensive security (Blue Team), currently learning and expanding my knowledge in the field through self-taught learning and hands-on practice.
 
-- 🌱 I’m currently learning Operating Systems
+
 
 * ✉️  You can contact me at [mahmoudemadmallouh@gmail.com](mailto:mahmoudemadmallouh@gmail.com)
 
