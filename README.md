@@ -1,11 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mahmoud
 =======================================================================================================================================
 
-SOC Analyst
------------
-
-A Cybersecurity student, with a focus on defensive security (Blue Team), currently learning and expanding my knowledge in the field through self-taught learning and hands-on practice.
-
+Aspiring Venture Capital & Business Development Professional
+Passionate about startups, venture capital, and innovation ecosystems. Currently developing expertise in startup evaluation, market analysis, business development, and investment research through continuous learning and practical experience.
 
 
 * ✉️  You can contact me at [mahmoudemadmallouh@gmail.com](mailto:mahmoudemadmallouh@gmail.com)
