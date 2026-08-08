@@ -23,9 +23,7 @@
 
 ## 🧭 About Me
 
-I'm currently learning **cloud infrastructure**, following a structured roadmap toward becoming a **Junior Cloud DevOps Engineer**.
-
-**Focus areas:** `Linux` · `Networking` · `Docker` · `Cloud Platforms` · `CI/CD` · `Infrastructure as Code` · `Monitoring` · `Automation`
+I'm currently learning **cloud infrastructure**, following a structured roadmap toward becoming a **Junior Cloud DevOps Engineer**-GOD's Willing.
 
 I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Roadmap) by Milan Milanović, and building a hands-on project for every stage so the learning actually sticks — not just theory.
 
@@ -68,20 +66,7 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
   </tr>
 </table>
 
-> More stages get added here as I move through the roadmap — same card shape, next number.
-
----
-
-## 🛠️ Tools I'm Working With
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+> More stages get added here as I move through the roadmap.
 
 ---
 
@@ -92,13 +77,6 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
 <!-- Replace YOUR_GITHUB_USERNAME in both lines below -->
 <img src="https://github-readme-stats.vercel.app/api?username=MHM-X&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHM-X&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
 ---
-
-<div align="center">
-
-⭐ Following the <a href="https://github.com/milanm/DevOps-Roadmap">DevOps Roadmap</a> one stage at a time.
-
-</div>
