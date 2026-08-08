@@ -31,24 +31,6 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
 
 ---
 
-## 🗺️ Roadmap Progress
-
-<!-- Tick these off as you go. Add/remove rows to match the roadmap stages you're actually following. -->
-
-- [x] Networking Fundamentals (CCNA)
-- [x] Linux Fundamentals & Server Administration
-- [x] Bash Scripting & Automation
-- [ ] Git & Version Control
-- [ ] Docker & Containers
-- [ ] Cloud Platforms (AWS / Azure / GCP)
-- [ ] Infrastructure as Code (Terraform / Ansible)
-- [ ] CI/CD Pipelines
-- [ ] Kubernetes & Orchestration
-- [ ] Monitoring & Observability
-- [ ] Cloud Security Basics
-
----
-
 ## 🖥️ Roadmap Stages
 
 <table>
@@ -108,8 +90,8 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in both lines below -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhm-x&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhm-x&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
