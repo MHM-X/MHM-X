@@ -90,8 +90,8 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in both lines below -->
-<img src="https://github-readme-stats.vercel.app/api?username=mhm-x&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhm-x&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MHM-X&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHM-X&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
