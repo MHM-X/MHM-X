@@ -30,17 +30,15 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
 <table>
   <tr>
     <td align="center" width="260">
-      <sub>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>~/stage-01</code></sub>
       <br><br>
       <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="85" alt="Networking"/>
       <h3>01 · Networking (CCNA)</h3>
       <p>Cisco CCNA fundamentals — IP addressing, subnetting, routing &amp; switching, and core network protocols.</p>
-      <a href="NETWORKING_REPO_LINK">
+      <a href="https://github.com/MHM-X/CCNA">
         <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
     </td>
     <td align="center" width="260">
-      <sub>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>~/stage-02</code></sub>
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="85" alt="Linux"/>
       <h3>02 · Linux Server</h3>
@@ -50,7 +48,6 @@ I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Ro
       </a>
     </td>
     <td align="center" width="260">
-      <sub>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>~/stage-03</code></sub>
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85" alt="Bash"/>
       <h3>03 · Bash Scripting</h3>
