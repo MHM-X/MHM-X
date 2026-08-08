@@ -27,7 +27,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <h3>01 · Networking (CCNA)</h3>
       <p>IP addressing, subnetting, routing &amp; switching, and core network protocols.</p>
       <a href="https://github.com/MHM-X/CCNA">
-  View repository →
+  View stage →
 </a>
     </td>
     <td align="center" width="260">
@@ -35,18 +35,14 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="85" alt="Linux"/>
       <h3>02 · Linux Server</h3>
       <p>Users &amp; permissions, processes, systemd, SSH hardening, and day-to-day server administration.</p>
-      <a href="LINUX_SERVER_REPO_LINK">
-        <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-      </a>
+      <span>🔧 <em>Under construction</em></span>
     </td>
     <td align="center" width="260">
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85" alt="Bash"/>
       <h3>03 · Bash Scripting</h3>
       <p>Shell scripting, automation, text processing, and small CLI tools.</p>
-      <a href="BASH_SCRIPTING_REPO_LINK">
-        <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-      </a>
+      <span>◌ <em>Coming soon</em></span>
     </td>
   </tr>
 </table>
