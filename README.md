@@ -35,14 +35,14 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="85" alt="Linux"/>
       <h3>02 · Linux Server</h3>
       <p>Users &amp; permissions, processes, systemd, SSH hardening, and day-to-day server administration.</p>
-      <span>🔧 <em>Under construction</em></span>
+      <span>🚧 <em>Coming soon...</em></span>
     </td>
     <td align="center" width="260">
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85" alt="Bash"/>
       <h3>03 · Bash Scripting</h3>
       <p>Shell scripting, automation, text processing, and small CLI tools.</p>
-      <span>◌ <em>Coming soon</em></span>
+     <span>🚧 <em>Coming soon...</em></span>
     </td>
   </tr>
 </table>
