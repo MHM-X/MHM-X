@@ -25,8 +25,6 @@ I'm currently learning **cloud infrastructure**, following a structured roadmap 
 
 I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Roadmap) by Milan Milanović, and building a hands-on project for every stage so the learning actually sticks — not just theory.
 
----
-
 ## 🖥️ Roadmap Stages
 
 <table>
