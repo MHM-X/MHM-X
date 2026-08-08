@@ -1,8 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mahmoud
-=======================================================================================================================================
+<!--
+  Before you push this, replace these placeholders:
+  - YOUR_GITHUB_USERNAME     → used in the stats widgets near the bottom
+  - LINUX_SERVER_REPO_LINK   → link to your Linux Server stage repo
+  - BASH_SCRIPTING_REPO_LINK → link to your Bash Scripting stage repo
+  To add a new stage later, copy one <td>...</td> block in the table below,
+  change the number/title/icon/text/link, and add it as a new column (or a
+  new <tr> row once you have more than 3, so the row doesn't get too wide).
+-->
 
-Currently, I’m learning cloud infrastructure and following a structured roadmap toward becoming a Junior Cloud DevOps Engineer. My focus includes Linux, networking, Docker, cloud platforms, CI/CD, Infrastructure as Code (IaC), monitoring, and automation, while building hands-on projects to strengthen my practical skills.
-also I'm following this Roadmap:
-https://github.com/milanm/DevOps-Roadmap
+<div align="center">
 
-I’m also a Computer Science student.
+# Hi, I'm Mahmoud 👋
+
+### Computer Science Student · Building toward **Junior Cloud DevOps Engineer**
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Learning+Linux%2C+Docker+%26+Cloud+Infrastructure;Following+the+DevOps+Roadmap+step+by+step;Documenting+every+stage+in+its+own+repo)
+
+</div>
+
+---
+
+## 🧭 About Me
+
+I'm currently learning **cloud infrastructure**, following a structured roadmap toward becoming a **Junior Cloud DevOps Engineer**.
+
+**Focus areas:** `Linux` · `Networking` · `Docker` · `Cloud Platforms` · `CI/CD` · `Infrastructure as Code` · `Monitoring` · `Automation`
+
+I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Roadmap) by Milan Milanović, and building a hands-on project for every stage so the learning actually sticks — not just theory.
+
+---
+
+## 🗺️ Roadmap Progress
+
+<!-- Tick these off as you go. Add/remove rows to match the roadmap stages you're actually following. -->
+
+- [x] Linux Fundamentals & Server Administration
+- [x] Bash Scripting & Automation
+- [ ] Networking Fundamentals
+- [ ] Git & Version Control
+- [ ] Docker & Containers
+- [ ] Cloud Platforms (AWS / Azure / GCP)
+- [ ] Infrastructure as Code (Terraform / Ansible)
+- [ ] CI/CD Pipelines
+- [ ] Kubernetes & Orchestration
+- [ ] Monitoring & Observability
+- [ ] Cloud Security Basics
+
+---
+
+## 🖥️ Roadmap Stages
+
+<table>
+  <tr>
+    <td align="center" width="380">
+      <sub>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>~/stage-01</code></sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="85" alt="Linux"/>
+      <h3>01 · Linux Server</h3>
+      <p>Users &amp; permissions, processes, systemd, SSH hardening, and day-to-day server administration.</p>
+      <a href="LINUX_SERVER_REPO_LINK">
+        <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+      </a>
+    </td>
+    <td align="center" width="380">
+      <sub>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>~/stage-02</code></sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85" alt="Bash"/>
+      <h3>02 · Bash Scripting</h3>
+      <p>Shell scripting, automation, text processing, and small CLI tools.</p>
+      <a href="BASH_SCRIPTING_REPO_LINK">
+        <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> More stages get added here as I move through the roadmap — same card shape, next number.
+
+---
+
+## 🛠️ Tools I'm Working With
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace YOUR_GITHUB_USERNAME in both lines below -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Following the <a href="https://github.com/milanm/DevOps-Roadmap">DevOps Roadmap</a> one stage at a time.
+
+</div>
