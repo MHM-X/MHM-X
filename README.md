@@ -10,8 +10,6 @@
 
 ## 🧭 About Me
 
-I'm currently learning **cloud infrastructure**, following a structured roadmap toward becoming a **Junior Cloud DevOps Engineer**, God willing.
-
 I'm working through a structured DevOps roadmap and building a hands-on project for every stage so the learning actually sticks — not just theory.
 
 I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish articles and newsletters exploring **technology, AI, cloud, and digital transformation**. My long-term goal is to grow Ledorn into a **digital transformation consultancy**, helping organizations navigate technology adoption and use it to build more efficient, secure, and modern operations.
