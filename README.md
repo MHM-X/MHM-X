@@ -4,8 +4,7 @@
 
 ### Entrepreneur · Building toward Junior Cloud DevOps Engineer · Computer Science Student
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building at the intersection of Technology & Business;Exploring Digital Transformation & AI;Turning ideas into products)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+Technology+%26+Business;Exploring+Digital+Transformation+%26+AI;Turning+ideas+into+products)
 </div>
 
 ## 🧭 About Me
