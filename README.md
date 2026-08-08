@@ -15,7 +15,7 @@
 
 ### Computer Engineering Student · Building toward **Junior Cloud DevOps Engineer**
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Learning+Cloud+Infrastructure;Following+the+DevOps+Roadmap+step+by+step;Documenting+every+stage+in+its+own+repo)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Learning+Cloud+Infrastructure;step+by+step;Documenting+every+stage)
 
 </div>
 
