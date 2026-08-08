@@ -1,14 +1,3 @@
-<!--
-  Before you push this, replace these placeholders:
-  - YOUR_GITHUB_USERNAME     → used in the stats widgets near the bottom
-  - NETWORKING_REPO_LINK     → link to your Networking (CCNA) stage repo
-  - LINUX_SERVER_REPO_LINK   → link to your Linux Server stage repo
-  - BASH_SCRIPTING_REPO_LINK → link to your Bash Scripting stage repo
-  To add a new stage later, copy one <td>...</td> block in the table below,
-  change the number/title/icon/text/link, and add it as a new column (or a
-  new <tr> row once you have more than 3, so the row doesn't get too wide).
--->
-
 <div align="center">
 
 # Hi, I'm Mahmoud 👋
@@ -25,7 +14,7 @@ I'm currently learning **cloud infrastructure**, following a structured roadmap 
 
 I'm working through the [**DevOps Roadmap**](https://github.com/milanm/DevOps-Roadmap) by Milan Milanović, and building a hands-on project for every stage so the learning actually sticks — not just theory.
 
-## 🖥️ Roadmap Stages
+<h3>🖥️ Roadmap Stages</h3>
 
 <table>
   <tr>
