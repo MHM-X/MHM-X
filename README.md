@@ -27,8 +27,8 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <h3>01 · Networking (CCNA)</h3>
       <p>IP addressing, subnetting, routing &amp; switching, and core network protocols.</p>
       <a href="https://github.com/MHM-X/CCNA">
-        <img src="https://img.shields.io/badge/View_Repo-141321?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-      </a>
+  View repository →
+</a>
     </td>
     <td align="center" width="260">
       <br><br>
