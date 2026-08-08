@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 ## 🧭 About Me
 
 I'm currently learning **cloud infrastructure**, following a structured roadmap toward becoming a **Junior Cloud DevOps Engineer**-GOD's Willing.
