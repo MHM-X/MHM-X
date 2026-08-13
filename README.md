@@ -41,7 +41,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85" alt="Bash"/>
       <h3>03 · Bash Scripting</h3>
       <p>Shell scripting, automation, text processing, and small CLI tools.</p>
-     <span>Building ···</span>
+      <a href="https://github.com/MHM-X/Bash-Scripting">
     </td>
   </tr>
 </table>
