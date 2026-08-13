@@ -42,6 +42,8 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <h3>03 · Bash Scripting</h3>
       <p>Shell scripting, automation, text processing, and small CLI tools.</p>
       <a href="https://github.com/MHM-X/Bash-Scripting">
+         View stage →
+</a>
     </td>
   </tr>
 </table>
