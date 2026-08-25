@@ -2,7 +2,7 @@
 
 # Hi, I'm Mahmoud 👋
 
-### Entrepreneur · Building toward Junior Cloud DevOps Engineer · Computer Science Student
+### Entrepreneur · Building toward Junior Cloud DevOps Engineer · Computer Engineering Student
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Technology+%C3%97+Business+%C3%97+Innovation;Exploring+Digital+Transformation+%26+AI;Turning+ideas+into+products)
 </div>
