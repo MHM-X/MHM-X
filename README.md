@@ -34,7 +34,9 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="85" alt="Linux"/>
       <h3>02 · Linux Server</h3>
       <p>Users &amp; permissions, processes, systemd, SSH hardening, and day-to-day server administration.</p>
-     <span>Building ···</span>
+     <a href="https://github.com/MHM-X/Linux-Administration">
+  View stage →
+</a>
     </td>
     <td align="center" width="260">
       <br><br>
