@@ -48,6 +48,9 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
 </a>
     </td>
   </tr>
+
+  <tr> <td align="center" width="260"> <br><br> <img src="https://cdn.simpleicons.org/linux/000000" width="85" alt="Infrastructure Foundation"/> <h3>04 · Phase 1 — Infrastructure Lab</h3> <p>A production-style self-hosted environment covering networking, firewalling, load balancing, backend services, and database infrastructure.</p> <a href="https://github.com/MHM-X/Cloud-Infrastructure-Lab-Phase-1"> View phase → </a> </td> </tr> </table>
+  
 </table>
 
 > More stages get added here as I move through the roadmap.
