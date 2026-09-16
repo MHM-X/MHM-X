@@ -63,7 +63,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
 <td align="center" width="260">
   <br><br>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="85" alt="Docker"/>
-  <h3>04 · Phase 2 — Docker</h3>
+  <h3>05 · Phase 2 — Docker</h3>
   <p>Containerized the application stack with Docker, making services portable, isolated, reproducible, and easier to deploy and manage.</p>
   <a href="https://github.com/MHM-X/Cloud-Infrastructure-Lab-Phase-2">
     View phase →
