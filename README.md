@@ -45,9 +45,11 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
       <p>Shell scripting, automation, text processing, and small CLI tools.</p>
       <a href="https://github.com/MHM-X/Bash-Scripting">
          View stage →
-</a>
+      </a>
     </td>
+  </tr>
 
+<tr>
 <td align="center" width="260">
   <br><br>
   <img src="https://cdn.simpleicons.org/icloud/3693F3" width="85" alt="Cloud Infrastructure"/>
@@ -67,7 +69,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
     View phase →
   </a>
 </td>
-   
+</tr> 
 </table>
 
 > More stages get added here as I move through the roadmap.
