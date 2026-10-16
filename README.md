@@ -50,26 +50,16 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
   </tr>
 
 <tr>
-<td align="center" width="260">
+<td align="center" width="260" colspan="3">
   <br><br>
-  <img src="https://cdn.simpleicons.org/icloud/3693F3" width="85" alt="Cloud Infrastructure"/>
-  <h3>04 · Phase 1 — Cloud Infrastructure</h3>
-  <p>A production-style self-hosted environment covering networking, firewalling, load balancing, backend services, and database infrastructure.</p>
+  <img src="https://cdn.simpleicons.org/icloud/3693F3" width="85" alt="Self-Hosted API Infrastructure"/>
+  <h3>04 · Self-Hosted API Infrastructure</h3>
+  <p>A production-style self-hosted backend environment covering networking, firewalling, load balancing, backend services, and database infrastructure — fully containerized with Docker and Docker Compose.</p>
   <a href="https://github.com/MHM-X/Cloud-Infrastructure-Lab-Phase-1">
-    View phase →
+    View project →
   </a>
 </td>
-
-<td align="center" width="260">
-  <br><br>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="85" alt="Docker"/>
-  <h3>05 · Phase 2 — Docker</h3>
-  <p>Containerized the application stack with Docker, making services portable, isolated, reproducible, and easier to deploy and manage.</p>
-  <a href="https://github.com/MHM-X/Cloud-Infrastructure-Lab-Phase-2">
-    View phase →
-  </a>
-</td>
-</tr> 
+</tr>
 </table>
 
 > More stages get added here as I move through the roadmap.
