@@ -55,7 +55,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
   <img src="https://cdn.simpleicons.org/icloud/3693F3" width="85" alt="Self-Hosted API Infrastructure"/>
   <h3>04 · Self-Hosted API Infrastructure</h3>
   <p>A production-style self-hosted backend environment covering networking, firewalling, load balancing, backend services, and database infrastructure — fully containerized with Docker and Docker Compose.</p>
-  <a href="https://github.com/MHM-X/Cloud-Infrastructure-Lab-Phase-1">
+  <a href="https://github.com/MHM-X/Self-Hosted-API-Infrastructure">
     View project →
   </a>
 </td>
