@@ -52,7 +52,7 @@ I'm also building **[Ledorn](https://ledorn.com/)**, a platform where I publish 
 <tr>
 <td align="center" width="260" colspan="3">
   <br><br>
-  <img src="https://cdn.simpleicons.org/icloud/3693F3" width="85" alt="Self-Hosted API Infrastructure"/>
+<img src="https://api.iconify.design/mdi/server-network.svg?color=%233693F3" width="85" alt="Self-Hosted API Infrastructure"/>
   <h3>04 · Self-Hosted API Infrastructure</h3>
   <p>A production-style self-hosted backend environment covering networking, firewalling, load balancing, backend services, and database infrastructure — fully containerized with Docker and Docker Compose.</p>
   <a href="https://github.com/MHM-X/Self-Hosted-API-Infrastructure">
