@@ -11,7 +11,7 @@
 
 I'm working through a structured DevOps roadmap and building a hands-on project for every stage so the learning actually sticks — not just theory.
 
-I'm also building **[Ledorn](https://ledorn.com/)**, an educational platform focused on practical **Cloud Computing and DevOps**, helping aspiring engineers build real-world infrastructure skills through hands-on projects and courses.
+I'm also building **[Ledorn](https://ledorn.com/)**, an educational platform focused on practical **Cloud Computing and DevOps**, helping aspiring engineers build real-world infrastructure skills through hands-on projects.
 <br>
 <br>
 
