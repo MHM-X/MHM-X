@@ -7,13 +7,11 @@
 
 ## 🧭 About Me
 
-I'm working through a structured DevOps roadmap and building a hands-on project for every stage so the learning actually sticks — not just theory.
-
-I'm also building **[Ledorn](https://ledorn.com/)**, an educational platform focused on practical **Cloud Computing and DevOps**, helping aspiring engineers build real-world infrastructure skills through hands-on projects.
+I'm bridging the gap between technology and business through my technical background in Software Engineering and my focus on Business Development. I've built my technical knowledge through hands-on learning and practical projects, bringing together what I've learned in the steps below.
 <br>
 <br>
 
-## 🖥️ Roadmap Stages
+## 🖥️ Technical Journey & Projects
 
 <table>
   <tr>
@@ -59,4 +57,4 @@ I'm also building **[Ledorn](https://ledorn.com/)**, an educational platform foc
 </tr>
 </table>
 
-> More stages get added here as I move through the roadmap.
+> Continuously expanding as I build and explore new technologies.
