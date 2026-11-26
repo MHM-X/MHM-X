@@ -1,15 +1,8 @@
-<div align="center">
+Mahmoud Mallouh
+---
+Cloud & DevOps Engineer | Building & Automating Infrastructure
 
-### Entrepreneur · Computer Engineering Student
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Technology+%C3%97+Business+%C3%97+Innovation;Exploring+Digital+Transformation+%26+AI;Turning+ideas+into+products)
-</div>
-
-## 🧭 About Me
-
-I'm bridging the gap between technology and business through my technical background in Software Engineering and my focus on Business Development. I've built my technical knowledge through hands-on learning and practical projects, bringing together what I've learned in the steps below.
-<br>
-<br>
+I'm a IT student focused on Cloud Engineering and DevOps. I build production-style infrastructure projects to understand how real-world systems are designed, deployed, automated, and maintained. My hands-on work spans AWS, Linux, networking, Terraform, Ansible, Packer, Docker, Kubernetes, CI/CD, and cloud observability. Everything in my portfolio is self-taught and project-driven, built through experimentation, problem-solving, and continuous learning alongside AI tools like Claude and ChatGPT. I focus on understanding the reasoning behind every architectural decision rather than simply following instructions or making things work.
 
 ## 🖥️ Technical Journey & Projects
 
