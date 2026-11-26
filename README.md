@@ -4,7 +4,7 @@ Cloud & DevOps Engineer | Building & Automating Infrastructure
 
 I'm a IT student focused on Cloud Engineering and DevOps. I build production-style infrastructure projects to understand how real-world systems are designed, deployed, automated, and maintained. My hands-on work spans AWS, Linux, networking, Terraform, Ansible, Packer, Docker, Kubernetes, CI/CD, and cloud observability. Everything in my portfolio is self-taught and project-driven, built through experimentation, problem-solving, and continuous learning alongside AI tools like Claude and ChatGPT. I focus on understanding the reasoning behind every architectural decision rather than simply following instructions or making things work.
 
-## 🖥️ Technical Journey & Projects
+##  Technical Projects
 
 
 <table>
